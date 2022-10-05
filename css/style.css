@@ -2,8 +2,12 @@
 
     margin:0;
     padding: 0;
-    
+    font-family: 'Lato', sans-serif;
+ 
+
     }
+
+    
     
     #top-bar{
     
@@ -15,7 +19,7 @@
     border-bottom: 5px solid orange;
     font-size: 20px ;
     margin-bottom: 60px;
-    font-family: 'Lato', sans-serif;
+    
     
     
     }
@@ -23,7 +27,7 @@
     h1{
     
     font-size: 50px;
-    font-family: 'Lato', sans-serif;
+    
     }
     
     #header{
@@ -41,7 +45,7 @@
     margin-top: 40px;
     word-break: break-word;
     font-size: 20px;
-    font-family: 'Lato', sans-serif;
+ 
     
     
     
@@ -49,18 +53,18 @@
     #prof{
     
     margin-top: 20px;
-    font-family: 'Lato', sans-serif;
+   
         
     }
 
     #dataehora{
 
     margin-top: 15px;
-    font-family: 'Lato', sans-serif;
+    
 
     }
 
-    .imagem{
+    .icones{
 
     margin-top: 15px;
 
@@ -70,7 +74,45 @@
 
     margin: auto;
     width: 700px;
-    font-family: 'Lato', sans-serif;
+    
     text-align: justify;
 
+    }
+
+    .links{
+
+       text-decoration: none;
+       color: #000000;
+       
+        
+
+    }
+
+
+    .posicionamentoimg{
+
+        text-align: center;
+        margin-bottom: 80px;
+
+    }
+
+    .imagens{
+
+        margin-top: 40px;
+        width: 600px;
+        
+    }
+
+    .subtitulos{
+
+    margin-bottom: 20px;
+
+    }
+
+    footer{
+
+    margin-top: 100px;
+    background-color: black;
+    height: 80px;
+    border-bottom: 5px solid orange;
     }
