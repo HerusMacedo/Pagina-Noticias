@@ -1,0 +1,76 @@
+*{
+
+    margin:0;
+    padding: 0;
+    
+    }
+    
+    #top-bar{
+    
+    
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    border-bottom: 5px solid orange;
+    font-size: 20px ;
+    margin-bottom: 60px;
+    font-family: 'Lato', sans-serif;
+    
+    
+    }
+    
+    h1{
+    
+    font-size: 50px;
+    font-family: 'Lato', sans-serif;
+    }
+    
+    #header{
+    
+    margin: auto;
+    width: 900px;
+    height: 400px;
+    border-bottom: 2px solid gray;
+    margin-bottom: 30px;
+    
+    }
+    
+    #texto-do-header{
+    
+    margin-top: 40px;
+    word-break: break-word;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    
+    
+    
+    }
+    #prof{
+    
+    margin-top: 20px;
+    font-family: 'Lato', sans-serif;
+        
+    }
+
+    #dataehora{
+
+    margin-top: 15px;
+    font-family: 'Lato', sans-serif;
+
+    }
+
+    .imagem{
+
+    margin-top: 15px;
+
+    }
+
+    #container{
+
+    margin: auto;
+    width: 700px;
+    font-family: 'Lato', sans-serif;
+    text-align: justify;
+
+    }
